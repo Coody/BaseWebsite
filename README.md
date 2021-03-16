@@ -5,6 +5,12 @@
 * Base on AFNetworking.
 * Can easy to use your own Encrypt and Decrypt algorithm.
 
+# How to install
+
+1. Need [cocoapods](https://cocoapods.org).
+2. ```pod install```
+3. open ```Website.xcworkspace```
+
 # How to use
 
 * Quick way:
